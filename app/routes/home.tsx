@@ -2,8 +2,8 @@ import type { Route } from "./+types/home";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "Unblocked games 674189" },
-    { name: "description", content: "Unblocked games 674189" },
+    { title: "Unblocked games 64167" },
+    { name: "description", content: "Unblocked games 64167" },
   ];
 }
 
@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <header className="mb-6">
-        <h1 className="text-3xl font-bold text-center">Unblocked games 674189</h1>
+        <h1 className="text-3xl font-bold text-center">Unblocked games 64167</h1>
       </header>
       <main className="grid lg:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-2 p-10">
         {games.map((game) => (
