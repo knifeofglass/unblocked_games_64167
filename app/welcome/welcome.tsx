@@ -19,13 +19,13 @@ export function Welcome() {
 }
 
 const games = [
-  { id: "survival-race", name: "Race Game", url: "https://sites.google.com/view/drive-u-7-home/survival-race", image: "/images/survival-race.png"},
-  { id: "math-games", name: "Cool Math Games", url: "https://coolmathgames.com", image: "/images/cool-math-games.png"},
-  { id: "cat-simulator", name: "Cat Simulator", url: "https://sites.goggle.com/site/unblockedgames77/cat-simulator", image: "/images/cat-simulator.png"},
-  { id: "basket-hoop", name: "Basketball Hoop", url: "https://sites.google.com/site/unblockedgame67/basket-hoop", image: "/images/basket-hoop.png"},
-  { id: "steal-a-brainrot", name: "Steal A Brainrot", url: "https://sites.google.com/view/drive-u-7-home/new-games/steal-a-brainrot-1", image: "/images/steal-a-brainrot.jpeg"},
-  { id: "gunspin", name: "Gunspin", url: "https://sites.google.com/view/drive-u-7-home/gunspin", image: "/images/gunspin.png"},
-  { id: "arc", name: "Arc", url: "https://sites.google.com/view/drive-u-7-home/archers", image: "/images/arc.png"},
-  { id: "99-nights-online", name: "99 Nights Online", url: "https://sites.google.com/view/drive-u-7-home/99-nights-online", image: "/images/99-nights-online.png"},
-  { id: "head-soccer-2022", name: "Head Soccer 2022", url: "https://sites.google.com/site/unblockedgames77/head-soccer-2022", image: "/images/head-soccer-2022.png"},
+  { id: "survival-race", name: "Race Game", url: "https://sites.google.com/view/drive-u-7-home/survival-race", image: "images/survival-race.png"},
+  { id: "math-games", name: "Cool Math Games", url: "https://coolmathgames.com", image: "images/cool-math-games.png"},
+  { id: "cat-simulator", name: "Cat Simulator", url: "https://sites.goggle.com/site/unblockedgames77/cat-simulator", image: "images/cat-simulator.png"},
+  { id: "basket-hoop", name: "Basketball Hoop", url: "https://sites.google.com/site/unblockedgame67/basket-hoop", image: "images/basket-hoop.png"},
+  { id: "steal-a-brainrot", name: "Steal A Brainrot", url: "https://sites.google.com/view/drive-u-7-home/new-games/steal-a-brainrot-1", image: "images/steal-a-brainrot.jpeg"},
+  { id: "gunspin", name: "Gunspin", url: "https://sites.google.com/view/drive-u-7-home/gunspin", image: "images/gunspin.png"},
+  { id: "arc", name: "Arc", url: "https://sites.google.com/view/drive-u-7-home/archers", image: "images/arc.png"},
+  { id: "99-nights-online", name: "99 Nights Online", url: "https://sites.google.com/view/drive-u-7-home/99-nights-online", image: "images/99-nights-online.png"},
+  { id: "head-soccer-2022", name: "Head Soccer 2022", url: "https://sites.google.com/site/unblockedgames77/head-soccer-2022", image: "images/head-soccer-2022.png"},
 ]
