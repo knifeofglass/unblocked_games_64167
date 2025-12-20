@@ -7,9 +7,16 @@
 
 html,
 body {
-  @apply bg-white dark:bg-gray-950;
+  @apply bg-blue-400;
 
   @media (prefers-color-scheme: dark) {
     color-scheme: dark;
   }
+}
+
+.game-item {
+  height: 200px;
+  width: 200px;
+  background-color: white;
+  border-radius: 12px;
 }
