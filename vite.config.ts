@@ -4,6 +4,6 @@ import { defineConfig } from "vite";
 import tsconfigPaths from "vite-tsconfig-paths";
 
 export default defineConfig({
-  base: "/unblocked_thunder_games_92/",
+  base: "/unblocked_games_64167/",
   plugins: [tailwindcss(), reactRouter(), tsconfigPaths()],
 });
